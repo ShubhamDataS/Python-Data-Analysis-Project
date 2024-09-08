@@ -1,38 +1,17 @@
+# Earthquake Prediction
+
 ---
-# **Table of Contents**
----
+### **Table of Contents**
+
 
 **1.** [**Introduction**](#Section1)<br>
 **2.** [**Problem Statement**](#Section2)<br>
 **3.** [**Installing & Importing Libraries**](#Section3)<br>
-  - **3.1** [**Installing Libraries**](#Section31)
-  - **3.2** [**Upgrading Libraries**](#Section32)
-  - **3.3** [**Importing Libraries**](#Section33)
-
 **4.** [**Data Acquisition & Description**](#Section4)<br>
-  - **4.1** [**Data Description**](#Section41)
-  - **4.2** [**Data Information**](#Section42)
-
 **5.** [**Data Pre-Profiling**](#Section5)<br>
-  - **4.1** [**Pre-profiling report**](#Section51)
- 
 **6.** [**Data Cleaning**](#Section6)<br>
-  - **6.1** [**Handling of Inconsistant Data**](#Section61)
-  - **6.2** [**Handling of Missing Values**](#Section611)
-  - **6.3** [**Dropping the necessary features**](#Section62)
-
 **7.** [**Data Post-Profiling**](#Section7)<br>
 **8.** [**Exploratory Data Analysis**](#Section8)<br>
-  
-- **8.1** [**How does the Day of a Week effect the number of earthhquakes?**](#Section81)
-- **8.2** [**What is the relation between Day of the month and Number of earthquakes that happend in a year?**](#Section82)
-- **8.3** [**What does the average frequency of earthquake in a month from the year 1965 to 2016 tell us?**](#Section83)
-- **8.4** [**What is the relation between Year and Number of earthquakes that happend in that year?**](#Section84)
-- **8.5** [**How is the earthquake magnitude on an average has been varied over the years?**](#Section85)
-- **8.6** [**How does year impacts the standard deviation of the earthquakes?**](#Section86)
-- **8.7** [**Does geographic location have anything to do with earthquakes?**](#Section87)
-- **8.8** [**Where do earthquakes occur very frequently?**](#Section88)
-- **8.9** [**What is the relation between Magnitude, Magnitude Type , Status and Root Mean Square of the earthquakes?**](#Section89)
 <br>
 
 **9.** [**Summarization**](#Section9)<br>
