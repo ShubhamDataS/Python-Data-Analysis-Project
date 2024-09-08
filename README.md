@@ -93,10 +93,8 @@
 <a name = Section5></a>
 
 ---
-# **5. Data Pre-Profiling**
+# **5. Data Preprocessing*
 ---
-<a name = Section51></a>
-### **5.1 Pre Profiling Report**
 
 - For **quick analysis** pandas profiling is very handy.
 
@@ -106,8 +104,14 @@
 
   <a name = Section9></a>
 
+  <a name = Section8></a>
+
 ---
-# **9. Summarization**
+# **6. Exploratory Data Analysis**
+---
+
+---
+# **7. Summarization**
 ---
 
 - **<h4>Conclusion</h4>**
