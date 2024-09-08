@@ -8,13 +8,9 @@
 **2.** [**Problem Statement**](#Section2)<br>
 **3.** [**Installing & Importing Libraries**](#Section3)<br>
 **4.** [**Data Acquisition & Description**](#Section4)<br>
-**5.** [**Data Pre-Profiling**](#Section5)<br>
-**6.** [**Data Cleaning**](#Section6)<br>
-**7.** [**Data Post-Profiling**](#Section7)<br>
-**8.** [**Exploratory Data Analysis**](#Section8)<br>
-<br>
-
-**9.** [**Summarization**](#Section9)<br>
+**5.** [**Data Preprocessing**](#Section5)<br>
+**6.** [**Exploratory Data Analysis**](#Section8)<br>
+**7.** [**Summarization**](#Section9)<br>
 
 ---
 <a name = Section1></a>
@@ -47,18 +43,12 @@
 - The medium is the operation of **modern digital national** and **global seismograph networks** and cooperative international agreements.
 
 <br>
+---
+<a name = Section3></a>
+# **3. Installing & Importing Libraries**
+---
+- Installing,upgrading and importing all the libraries here such as Panada, Numpy, Plotly, Matplotlib etc.
 
-<center><img src = "https://raw.githubusercontent.com/insaid2018/Term-2/master/images/earthquake.PNG" ></center>
-
-### **Scenario**
-
-- Consider that **you are a data scientist** at NEIC.
-
-- Your **objective** is to **perform** **EDA** on the given dataset and **come up** with **the insights**.
-
-- Several **insights** can be **derived** utilizing different features such as magnitude, latitude, longitude, etc.
-
-- A **deep analysis** of this data will lay the **foundation** for the **prediction** of apocalyptic **earthquakes**.
 ---
 <a name = Section4></a>
 # **4. Data Acquisition & Description**
