@@ -42,11 +42,12 @@
 
 - The medium is the operation of **modern digital national** and **global seismograph networks** and cooperative international agreements.
 
-<br>
+
 ---
 <a name = Section3></a>
-# **Installing & Importing Libraries**
----
+# **3. Installing & Importing Libraries**
+
+
 - Installing,upgrading and importing all the libraries here such as Panada, Numpy, Plotly, Matplotlib etc.
 
 ---
