@@ -45,7 +45,7 @@
 <br>
 ---
 <a name = Section3></a>
-# **3. Installing & Importing Libraries**
+# **Installing & Importing Libraries**
 ---
 - Installing,upgrading and importing all the libraries here such as Panada, Numpy, Plotly, Matplotlib etc.
 
