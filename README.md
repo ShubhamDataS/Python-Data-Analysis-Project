@@ -93,7 +93,7 @@
 <a name = Section5></a>
 
 ---
-# **5. Data Preprocessing*
+# **5. Data Profiling**
 ---
 
 - For **quick analysis** pandas profiling is very handy.
